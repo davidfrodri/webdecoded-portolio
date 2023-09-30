@@ -8,6 +8,20 @@ You can check out the live version of this portfolio here: [WebDecoded Portfolio
 
 This portfolio showcases my work and skills in web development. It includes information about me, my projects, and how to get in touch.
 
+### Portfolio Enhancement
+
+What started as a simple layout inspired by WebDecoded has grown into something much larger. It's an expression of my desire to push boundaries, not only in terms of design and aesthetics but also in the implementation of advanced practices and technologies.
+
+### Additional Implementations
+
+Here, you'll find a demonstration of my ability to apply industry best practices. Some key implementations include:
+
+- **Thorough Testing:** Every aspect of this portfolio is backed by robust testing, from unit tests to end-to-end (E2E) tests. Quality is a priority.
+
+- **Continuous Integration / Continuous Delivery (CI/CD):** I use CI/CD to ensure that every change is smoothly deployed, and you're always viewing the latest version online.
+
+- **Automation with GitHub Actions:** GitHub Actions has become an essential part of my workflow, automating critical tasks to keep this portfolio in its best shape.
+
 ## Features
 
 - Responsive design
@@ -16,10 +30,9 @@ This portfolio showcases my work and skills in web development. It includes info
 
 ## Technologies Used
 
-- HTML5
-- CSS3
 - JavaScript
 - React
+- Bootstrap
 
 ## Getting Started
 
