@@ -2,7 +2,7 @@
 /* eslint-disable react/no-unknown-property */
 import { useState, useEffect } from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import headerImg from '../../assets/img/Me/me3.PNG'
+import headerImg from '../../assets/img/Me/me.PNG'
 import { ArrowRightCircle } from 'react-bootstrap-icons'
 import 'animate.css'
 import TrackVisibility from 'react-on-screen'
