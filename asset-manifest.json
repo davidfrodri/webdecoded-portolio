@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webdecoded-portolio/static/css/main.073c9b0a.css",
+    "main.js": "/webdecoded-portolio/static/js/main.dc15fb28.js",
+    "index.html": "/webdecoded-portolio/index.html",
+    "main.073c9b0a.css.map": "/webdecoded-portolio/static/css/main.073c9b0a.css.map",
+    "main.dc15fb28.js.map": "/webdecoded-portolio/static/js/main.dc15fb28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dc15fb28.js"
+  ]
+}
