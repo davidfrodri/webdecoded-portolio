@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/webdecoded-portolio/static/css/main.073c9b0a.css",
-    "main.js": "/webdecoded-portolio/static/js/main.dc15fb28.js",
+    "main.css": "/webdecoded-portolio/static/css/main.0746a0c1.css",
+    "main.js": "/webdecoded-portolio/static/js/main.d8f9ab73.js",
+    "static/media/me.PNG": "/webdecoded-portolio/static/media/me.da9408264bd1565baeb3.PNG",
+    "static/media/CentraNo2-Bold.ttf": "/webdecoded-portolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/webdecoded-portolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/webdecoded-portolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/webdecoded-portolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/wavey-fingerprint.png": "/webdecoded-portolio/static/media/wavey-fingerprint.adb944104c9ee931a4e5.png",
+    "static/media/logo.svg": "/webdecoded-portolio/static/media/logo.296712835914bb5e67eb3206d647588d.svg",
+    "static/media/nav-icon3.svg": "/webdecoded-portolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/icons8-github.svg": "/webdecoded-portolio/static/media/icons8-github.90463cd2ad21e14e139a1ecceb971b67.svg",
     "index.html": "/webdecoded-portolio/index.html",
-    "main.073c9b0a.css.map": "/webdecoded-portolio/static/css/main.073c9b0a.css.map",
-    "main.dc15fb28.js.map": "/webdecoded-portolio/static/js/main.dc15fb28.js.map"
+    "static/media/nav-icon1.svg": "/webdecoded-portolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.0746a0c1.css.map": "/webdecoded-portolio/static/css/main.0746a0c1.css.map",
+    "main.d8f9ab73.js.map": "/webdecoded-portolio/static/js/main.d8f9ab73.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dc15fb28.js"
+    "static/css/main.0746a0c1.css",
+    "static/js/main.d8f9ab73.js"
   ]
 }
