@@ -74,11 +74,22 @@
   }
 
 .interactive-text {
-    height: 230px;
+    height: 210px;
 }
 
+
+
 @media (max-width: 1000px) {
-    .interactive-text {
-        height: auto;
-    }
+  .banner {
+    padding: 160px 0 100px 0;
+  }
+
+  .interactive-text {
+      height: 280px
+  }
+
+  .navbar-collapse {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.85)
+  }
 }
