@@ -20,7 +20,6 @@ This portfolio showcases my work and skills in web development. It includes info
 - CSS3
 - JavaScript
 - React
-- [Additional technologies or libraries]
 
 ## Getting Started
 
@@ -37,4 +36,4 @@ If you have any questions or would like to get in touch, feel free to reach out 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
