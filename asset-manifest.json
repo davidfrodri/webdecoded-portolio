@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webdecoded-portolio/static/css/main.0746a0c1.css",
+    "main.css": "/webdecoded-portolio/static/css/main.d037113b.css",
     "main.js": "/webdecoded-portolio/static/js/main.d8f9ab73.js",
     "static/media/me.PNG": "/webdecoded-portolio/static/media/me.da9408264bd1565baeb3.PNG",
     "static/media/CentraNo2-Bold.ttf": "/webdecoded-portolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -13,11 +13,11 @@
     "static/media/icons8-github.svg": "/webdecoded-portolio/static/media/icons8-github.90463cd2ad21e14e139a1ecceb971b67.svg",
     "index.html": "/webdecoded-portolio/index.html",
     "static/media/nav-icon1.svg": "/webdecoded-portolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.0746a0c1.css.map": "/webdecoded-portolio/static/css/main.0746a0c1.css.map",
+    "main.d037113b.css.map": "/webdecoded-portolio/static/css/main.d037113b.css.map",
     "main.d8f9ab73.js.map": "/webdecoded-portolio/static/js/main.d8f9ab73.js.map"
   },
   "entrypoints": [
-    "static/css/main.0746a0c1.css",
+    "static/css/main.d037113b.css",
     "static/js/main.d8f9ab73.js"
   ]
 }
