@@ -1,0 +1,15 @@
+@import 'base/reset';
+@import 'base/typo';
+
+@import 'modules/NavBar';
+@import 'modules/Banner';
+
+.development-banner {
+    position: fixed;
+    bottom: 0;
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(78, 68, 56);
+}

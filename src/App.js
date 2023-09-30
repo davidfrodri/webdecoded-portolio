@@ -1,11 +1,16 @@
+import NavBar from './components/NavBar'
+import Banner from './components/Banner/Banner'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 
 function App () {
   return (
     <div className="App">
-      <header className="App-header">
-        Hello !!
-      </header>
+      <NavBar />
+      <Banner />
+      <div className="development-banner">
+        This Website is Under Development
+      </div>
     </div>
   )
 }
